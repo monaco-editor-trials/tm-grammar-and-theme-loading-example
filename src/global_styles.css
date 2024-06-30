@@ -1,0 +1,12 @@
+#editor {
+  height: 100vh;
+  width: 100%;
+}
+
+select {
+  margin: 10px 0px;
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid gray !important;
+}

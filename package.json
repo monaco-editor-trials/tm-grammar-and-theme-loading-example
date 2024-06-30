@@ -1,0 +1,34 @@
+{
+  "name": "angular-starter",
+  "private": true,
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build"
+  },
+  "dependencies": {
+    "@angular/animations": "^18.0.0",
+    "@angular/common": "^18.0.0",
+    "@angular/compiler": "^18.0.0",
+    "@angular/core": "^18.0.0",
+    "@angular/forms": "^18.0.0",
+    "@angular/platform-browser": "^18.0.0",
+    "@angular/router": "^18.0.0",
+    "@estruyf/vscode-theme-converter": "^1.1.0",
+    "monaco-editor": "^0.50.0",
+    "monaco-editor-textmate": "^4.0.0",
+    "monaco-textmate": "^3.0.1",
+    "onigasm": "^2.2.5",
+    "rxjs": "^7.8.1",
+    "tm-grammars": "^1.13.0",
+    "tm-themes": "^1.5.0",
+    "tslib": "^2.5.0",
+    "zone.js": "~0.14.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^18.0.0",
+    "@angular/cli": "^18.0.1",
+    "@angular/compiler-cli": "^18.0.0",
+    "typescript": "~5.4.0"
+  }
+}
